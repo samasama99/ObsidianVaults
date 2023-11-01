@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "28635002197ab74f",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d20d2e9c558088",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f355de6a00d03c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9735e850df4de1c4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Quick-find demo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c51ada20d3f799c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c819fa2098876523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377d0113ef998be1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89fb6977b16c2bc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Hibernate",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6685c8af7c40dc55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8a9eb6fe114b9c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "65a9ab7f5542cdb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "680b79045142cfc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4305f3fb55abf18c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33198261ca7494f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12d57a7a3269515b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "algorithm/Princeton University/week2/Quick-find.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6f355de6a00d03c8",
+  "lastOpenFiles": [
+    "Excalidraw/Quick-find demo.md",
+    "algorithm/Princeton University/week2/Quick-find.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "java/core/JDBC.md",
+    "algorithm/Princeton University/week2",
+    "algorithm/Princeton University/Untitled.md",
+    "algorithm/Princeton University",
+    "algorithm",
+    "java/spring/data/Hibernate.md",
+    "Untitled 1.canvas",
+    "java/spring/data/JPA.md",
+    "java/spring/data",
+    "java/spring/security",
+    "java/JAVA.md",
+    "Untitled 6.canvas",
+    "Untitled 4.canvas",
+    "Untitled 5.canvas",
+    "2023-11-01.md",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "java/spring",
+    "java/core",
+    "java"
+  ]
+}
