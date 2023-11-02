@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "file": "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d8056c9ad38531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f43bfcd01ba47a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parallel-programing-in-java/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +49,12 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Quick-find demo.md"
+                "file": "algorithm/Princeton University/week2/Excalidraw/Quick-find demo.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hibernate",
+                "query": "tag:#quick-find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8a9eb6fe114b9c72",
@@ -96,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "file": "parallel-programing-in-java/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "file": "parallel-programing-in-java/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithm/Princeton University/week2/Quick-find.md"
+                "file": "parallel-programing-in-java/NOTES.md"
               }
             }
           }
@@ -158,10 +182,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f355de6a00d03c8",
+  "active": "f43bfcd01ba47a3c",
   "lastOpenFiles": [
-    "Excalidraw/Quick-find demo.md",
+    "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
+    "parallel-programing-in-java/NOTES.md",
+    "parallel-programing-in-java",
     "algorithm/Princeton University/week2/Quick-find.md",
+    "Excalidraw/Quick-union <lazy approach> demo.md",
+    "algorithm/Princeton University/week2/Excalidraw",
+    "algorithm/Princeton University/week2/Excalidraw/Quick-find demo.md",
     "Excalidraw",
     "Untitled.canvas",
     "java/core/JDBC.md",
@@ -182,7 +211,6 @@
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "java/spring",
-    "java/core",
-    "java"
+    "java/core"
   ]
 }
