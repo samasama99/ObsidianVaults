@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9d8056c9ad38531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
+                "file": "java/core/JAR file.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03f8b5940985994c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "algorithm/Princeton University/week2/Quick-find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2645aaaa139bb3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "parallel-programing-in-java/NOTES.md",
                 "mode": "source",
                 "source": false
@@ -44,17 +56,29 @@
             }
           },
           {
-            "id": "9735e850df4de1c4",
+            "id": "1ad69bce9a8c690f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67c5c27caa2ccb67",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "algorithm/Princeton University/week2/Excalidraw/Quick-find demo.md"
+                "file": "Excalidraw/RANDOM.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parallel-programing-in-java/NOTES.md",
+                "file": "Excalidraw/RANDOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parallel-programing-in-java/NOTES.md",
+                "file": "Excalidraw/RANDOM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parallel-programing-in-java/NOTES.md"
+                "file": "Excalidraw/RANDOM.md"
               }
             }
           }
@@ -182,18 +206,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f43bfcd01ba47a3c",
+  "active": "67c5c27caa2ccb67",
   "lastOpenFiles": [
-    "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
-    "parallel-programing-in-java/NOTES.md",
-    "parallel-programing-in-java",
-    "algorithm/Princeton University/week2/Quick-find.md",
+    "Excalidraw/Drawing 2023-11-07 08.47.56.excalidraw.md",
+    "Excalidraw/RANDOM.md",
     "Excalidraw/Quick-union <lazy approach> demo.md",
-    "algorithm/Princeton University/week2/Excalidraw",
+    "Excalidraw/idea for `Percolation`.md",
+    "trash.md",
+    "algorithm/Princeton University/week2/Quick-find.md",
+    "parallel-programing-in-java/NOTES.md",
+    "java/core/JAR file.md",
+    "java/core/JDBC.md",
+    "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
+    "Excalidraw/Drawing 2023-11-06 17.05.53.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-06 16.58.39.excalidraw.md",
     "algorithm/Princeton University/week2/Excalidraw/Quick-find demo.md",
+    "algorithm/Princeton University/week2/Percolation.md",
+    "parallel-programing-in-java",
+    "algorithm/Princeton University/week2/Excalidraw",
     "Excalidraw",
     "Untitled.canvas",
-    "java/core/JDBC.md",
     "algorithm/Princeton University/week2",
     "algorithm/Princeton University/Untitled.md",
     "algorithm/Princeton University",
