@@ -1,4 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-languagetool-plugin",
+  "obsidian-plantuml",
+  "obsidian-icon-folder"
 ]

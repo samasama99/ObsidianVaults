@@ -71,9 +71,11 @@
             "id": "67c5c27caa2ccb67",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/RANDOM.md"
+                "file": "parallel-programing-in-java/NOTES.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -144,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/RANDOM.md",
+                "file": "parallel-programing-in-java/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/RANDOM.md",
+                "file": "parallel-programing-in-java/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/RANDOM.md"
+                "file": "parallel-programing-in-java/NOTES.md"
               }
             }
           }
@@ -197,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,14 +211,15 @@
   },
   "active": "67c5c27caa2ccb67",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-07 08.47.56.excalidraw.md",
+    "trash.md",
+    "parallel-programing-in-java/Future Tasks.md",
+    "java/core/JAR file.md",
+    "parallel-programing-in-java/NOTES.md",
     "Excalidraw/RANDOM.md",
+    "Excalidraw/Drawing 2023-11-07 08.47.56.excalidraw.md",
     "Excalidraw/Quick-union <lazy approach> demo.md",
     "Excalidraw/idea for `Percolation`.md",
-    "trash.md",
     "algorithm/Princeton University/week2/Quick-find.md",
-    "parallel-programing-in-java/NOTES.md",
-    "java/core/JAR file.md",
     "java/core/JDBC.md",
     "algorithm/Princeton University/week2/Quick-union <lazy approach>.md",
     "Excalidraw/Drawing 2023-11-06 17.05.53.excalidraw.md",
