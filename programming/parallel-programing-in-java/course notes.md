@@ -1,3 +1,4 @@
+**Future Tasks**
 Future tasks are tasks with return values, and a future object is a “handle” for accessing a task’s return value. There are two key operations that can be performed on a future object, _A_:
 
 1. _Assignment_ — _A_ can be assigned a reference to a future object returned by a task of the form, _future_ { ⟨ _t__ask-with-return-value_ ⟩ } (using pseudocode notation). The content of the future object is constrained to be _single assignment_ (similar to a final variable in Java), and cannot be modified after the future task has returned.
@@ -43,3 +44,8 @@ students.stream()
 ```
 
 An important benefit of using Java streams when possible is that the pipeline can be made to execute in parallel by designating the source to be a _parallel stream_, i.e., by simply replacing _students.stream()_ in the above code by _students.parallelStream()_ or _Stream.of(students).parallel()_. This form of functional parallelism is a major convenience for the programmer, since they do not need to worry about explicitly allocating intermediate collections (e.g., a collection of all active students), or about ensuring that parallel accesses to data collections are properly synchronized.
+
+
+**Determinism and Data Races**
+
+A parallel program is said to be _functionally deterministic_ if it always computes the same answer when given the same input, and _structurally deterministic_ if it always computes the same computation graph, when given the same input. The presence of data races often leads to functional and/or structural nondeterminism because a parallel program with data races may exhibit different behaviors for the same input, depending on the relative scheduling and timing of memory accesses involved in a data race. In general, the absence of data races is not sufficient to guarantee determinism
