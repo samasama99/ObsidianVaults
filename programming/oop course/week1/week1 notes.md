@@ -19,4 +19,18 @@ organizing software into these objects will allow the code to be more flexible, 
 
 **Record, Organize, and Refine Components**
 - CRC: Class Responsibility Collaborator
-- 
+
+| class name       |               | 
+| ---------------- | ------------- |
+| Responsibilities | Collaborators |
+
+example:
+
+| Bank Customer    |               | | Bank machine               |               |
+| ---------------- | -------------|- | -------------------------- | ------------- |
+| Responsibilities | Collaborators | | Responsibilities           | Collaborators |
+| insert bank card | Bank machine | | Authenticate bank customer | bank customer |
+| Choose operation |              | | Display task options       |               |
+|                  |              | | Deposit and withdraw       |               |
+|                  |              | | Check balances                           |               |
+
