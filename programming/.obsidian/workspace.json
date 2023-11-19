@@ -97,9 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oop course/week2/week2 notes.md",
+                "file": "google-cloud-spring/Notes.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "aa717372a28af63f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Demo application architecture.md"
               }
             }
           }
@@ -171,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oop course/week2/week2 notes.md",
+                "file": "google-cloud-spring/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oop course/week2/week2 notes.md",
+                "file": "google-cloud-spring/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oop course/week2/week2 notes.md"
+                "file": "google-cloud-spring/Notes.md"
               }
             }
           },
@@ -224,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -245,13 +255,19 @@
   },
   "active": "2af4a168ac4da497",
   "lastOpenFiles": [
+    "Excalidraw/Demo application architecture.md",
+    "google-cloud-spring/Notes.md",
+    "java/maven/Maven Full Course.md",
+    "google-cloud-spring",
+    "java/core/JAR file.md",
+    "Screen Shot 2023-11-18 at 12.33.16 PM.png",
+    "oop course/week2/week2 notes.md",
+    "java/maven",
     "Screen Shot 2023-11-18 at 11.37.24 AM.png",
     "oop course/week1/week1 notes.md",
-    "oop course/week2/week2 notes.md",
     "trash.md",
     "2023-11-18.md",
     "Untitled.canvas",
-    "java/core/JAR file.md",
     "algorithm/Princeton University/week2/Generics.md",
     "algorithm/Princeton University/week2/Amortized.md",
     "algorithm/Princeton University/week2/stack.md",
@@ -276,14 +292,10 @@
     "algorithm/Princeton University/week1/Quick-find.md",
     "java/core/JDBC.md",
     "algorithm/Princeton University/week1/Quick-union <lazy approach>.md",
-    "Excalidraw/Drawing 2023-11-06 17.05.53.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-06 16.58.39.excalidraw.md",
     "parallel-programing-in-java",
     "algorithm/Princeton University/week1/Excalidraw",
     "Excalidraw",
     "algorithm/Princeton University/week1",
-    "algorithm/Princeton University",
-    "algorithm",
     "Untitled 1.canvas",
     "Untitled 6.canvas",
     "Untitled 4.canvas",
