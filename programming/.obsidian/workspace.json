@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/core/JAR file.md",
+                "file": "algorithm/Princeton University/week1/Quick-find.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cd9fd304565d544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parallel-programing-in-java/course notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8a9eb6fe114b9c72",
@@ -181,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "google-cloud-spring/Notes.md",
+                "file": "parallel-programing-in-java/course notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "google-cloud-spring/Notes.md",
+                "file": "parallel-programing-in-java/course notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "google-cloud-spring/Notes.md"
+                "file": "parallel-programing-in-java/course notes.md"
               }
             }
           },
@@ -253,18 +264,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2af4a168ac4da497",
+  "active": "0cd9fd304565d544",
   "lastOpenFiles": [
-    "Excalidraw/Demo application architecture.md",
-    "google-cloud-spring/Notes.md",
-    "java/maven/Maven Full Course.md",
-    "google-cloud-spring",
-    "java/core/JAR file.md",
-    "Screen Shot 2023-11-18 at 12.33.16 PM.png",
+    "parallel-programing-in-java/random notes.md",
+    "algorithm/Princeton University/week1/Excalidraw/Quick-find demo.md",
+    "algorithm/Princeton University/week1/Quick-union <lazy approach>.md",
+    "algorithm/Princeton University/week1/Quick-find.md",
+    "algorithm/Princeton University/week1/Percolation.md",
+    "parallel-programing-in-java/course notes.md",
+    "java/spring/data/Hibernate.md",
+    "java/spring/data/JPA.md",
     "oop course/week2/week2 notes.md",
+    "oop course/week1/week1 notes.md",
+    "oop course/week1/software_requirements.png",
+    "java/maven/Maven Full Course.md",
+    "google-cloud-spring/Notes.md",
+    "java/oop/design pattern.md",
+    "oop course/Week3/week3 notes.md",
+    "oop course/Week3",
+    "oop course/Untitled.md",
+    "java/oop",
+    "java/Untitled.md",
+    "java/core/JAR file.md",
+    "Excalidraw/Demo application architecture.md",
+    "google-cloud-spring",
+    "Screen Shot 2023-11-18 at 12.33.16 PM.png",
     "java/maven",
     "Screen Shot 2023-11-18 at 11.37.24 AM.png",
-    "oop course/week1/week1 notes.md",
     "trash.md",
     "2023-11-18.md",
     "Untitled.canvas",
@@ -275,27 +301,12 @@
     "Excalidraw/class_diagram.md",
     "oop course/week2",
     "Excalidraw/Drawing 2023-11-13 09.27.48.excalidraw.md",
-    "oop course/week1/software_requirements.png",
     "oop course/week1/Screen Shot 2023-11-11 at 10.45.43 AM 1.png",
-    "oop course/Untitled.md",
     "oop course/week1",
     "oop course",
-    "Excalidraw/RANDOM.md",
-    "algorithm/Princeton University/Untitled.md",
     "algorithm/Princeton University/week2",
-    "java/core/Optimization.md",
-    "parallel-programing-in-java/course notes.md",
-    "parallel-programing-in-java/random notes.md",
-    "Excalidraw/Drawing 2023-11-07 08.47.56.excalidraw.md",
-    "Excalidraw/Quick-union <lazy approach> demo.md",
-    "Excalidraw/idea for `Percolation`.md",
-    "algorithm/Princeton University/week1/Quick-find.md",
-    "java/core/JDBC.md",
-    "algorithm/Princeton University/week1/Quick-union <lazy approach>.md",
     "parallel-programing-in-java",
     "algorithm/Princeton University/week1/Excalidraw",
-    "Excalidraw",
-    "algorithm/Princeton University/week1",
     "Untitled 1.canvas",
     "Untitled 6.canvas",
     "Untitled 4.canvas",
