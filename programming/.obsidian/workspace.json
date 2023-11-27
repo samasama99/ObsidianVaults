@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parallel-programing-in-java/course notes.md",
+                "file": "DesignPatternsMasterClass/Adapter.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,10 +119,8 @@
             "id": "aa717372a28af63f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Demo application architecture.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -192,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parallel-programing-in-java/course notes.md",
+                "file": "DesignPatternsMasterClass/Adapter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parallel-programing-in-java/course notes.md",
+                "file": "DesignPatternsMasterClass/Adapter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parallel-programing-in-java/course notes.md"
+                "file": "DesignPatternsMasterClass/Adapter.md"
               }
             }
           },
@@ -245,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -254,7 +252,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -266,12 +263,21 @@
   },
   "active": "0cd9fd304565d544",
   "lastOpenFiles": [
+    "DesignPatternsMasterClass/Prototype.md",
+    "DesignPatternsMasterClass/Adapter.md",
+    "DesignPatternsMasterClass/Builder.md",
+    "DesignPatternsMasterClass/Abstract Factory.md",
+    "DesignPatternsMasterClass/resource.md",
+    "DesignPatternsMasterClass/Factory.md",
+    "DesignPatternsMasterClass/Singleton.md",
+    "DesignPatternsMasterClass/SOLID.md",
+    "parallel-programing-in-java/course notes.md",
+    "DesignPatternsMasterClass",
     "parallel-programing-in-java/random notes.md",
     "algorithm/Princeton University/week1/Excalidraw/Quick-find demo.md",
     "algorithm/Princeton University/week1/Quick-union <lazy approach>.md",
     "algorithm/Princeton University/week1/Quick-find.md",
     "algorithm/Princeton University/week1/Percolation.md",
-    "parallel-programing-in-java/course notes.md",
     "java/spring/data/Hibernate.md",
     "java/spring/data/JPA.md",
     "oop course/week2/week2 notes.md",
@@ -291,22 +297,13 @@
     "Screen Shot 2023-11-18 at 12.33.16 PM.png",
     "java/maven",
     "Screen Shot 2023-11-18 at 11.37.24 AM.png",
-    "trash.md",
-    "2023-11-18.md",
     "Untitled.canvas",
-    "algorithm/Princeton University/week2/Generics.md",
-    "algorithm/Princeton University/week2/Amortized.md",
-    "algorithm/Princeton University/week2/stack.md",
-    "Excalidraw/Drawing 2023-11-14 10.25.45.excalidraw.md",
-    "Excalidraw/class_diagram.md",
     "oop course/week2",
-    "Excalidraw/Drawing 2023-11-13 09.27.48.excalidraw.md",
     "oop course/week1/Screen Shot 2023-11-11 at 10.45.43 AM 1.png",
     "oop course/week1",
     "oop course",
     "algorithm/Princeton University/week2",
     "parallel-programing-in-java",
-    "algorithm/Princeton University/week1/Excalidraw",
     "Untitled 1.canvas",
     "Untitled 6.canvas",
     "Untitled 4.canvas",
