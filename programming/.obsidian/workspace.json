@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DesignPatternsMasterClass/Adapter.md",
+                "file": "java/maven/Maven Full Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DesignPatternsMasterClass/Adapter.md",
+                "file": "java/maven/Maven Full Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DesignPatternsMasterClass/Adapter.md",
+                "file": "java/maven/Maven Full Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DesignPatternsMasterClass/Adapter.md"
+                "file": "java/maven/Maven Full Course.md"
               }
             }
           },
@@ -263,15 +263,16 @@
   },
   "active": "0cd9fd304565d544",
   "lastOpenFiles": [
-    "DesignPatternsMasterClass/Prototype.md",
+    "DesignPatternsMasterClass/SOLID.md",
+    "DesignPatternsMasterClass/Decorator.md",
+    "DesignPatternsMasterClass/Singleton.md",
+    "parallel-programing-in-java/course notes.md",
     "DesignPatternsMasterClass/Adapter.md",
+    "DesignPatternsMasterClass/Prototype.md",
     "DesignPatternsMasterClass/Builder.md",
     "DesignPatternsMasterClass/Abstract Factory.md",
     "DesignPatternsMasterClass/resource.md",
     "DesignPatternsMasterClass/Factory.md",
-    "DesignPatternsMasterClass/Singleton.md",
-    "DesignPatternsMasterClass/SOLID.md",
-    "parallel-programing-in-java/course notes.md",
     "DesignPatternsMasterClass",
     "parallel-programing-in-java/random notes.md",
     "algorithm/Princeton University/week1/Excalidraw/Quick-find demo.md",
@@ -292,7 +293,6 @@
     "java/oop",
     "java/Untitled.md",
     "java/core/JAR file.md",
-    "Excalidraw/Demo application architecture.md",
     "google-cloud-spring",
     "Screen Shot 2023-11-18 at 12.33.16 PM.png",
     "java/maven",

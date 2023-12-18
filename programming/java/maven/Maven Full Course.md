@@ -669,3 +669,34 @@ Important phases:
 ##### Plugins
 - A plugin is a collection of goals:
 - plugin is a prefix, ex: `mvn compiler:`, the second is a goal `mvn compiler:compiler`
+##### Plugins properties
+- Example: setting property via command line argument
+```shell
+	$ mvn compiler:compile -Dmaven.compiler.verbose=true
+```
+- Example: setting property using pom file `this is a better way`
+```xml
+<build>
+	<pluginManagement>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.2</version>
+				<configuration>
+					<verbose>true</verbose>
+				<configuration>
+			</plugin>
+		</plugins>
+	</pluginManagement>
+</build>
+```
+
+- RANDOM NOTE
+	- `<plugins>` is for configuring plugins directly in a specific build.
+	- `<pluginManagement>` is for defining default configurations for plugins that can be inherited by child POMs.
+	- `<pluginManagement>` is often used in parent POMs to centralize plugin configurations and avoid duplication across multiple child projects.
+	- By using `<pluginManagement>`, you provide a consistent set of default configurations that child projects can adopt or override as needed. It helps maintain a standardized build configuration across multiple projects within a multi-module project or organization.
+
+
+- Custom Plugins

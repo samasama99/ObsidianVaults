@@ -51,4 +51,23 @@ An important benefit of using Java streams when possible is that the pipeline ca
 A parallel program is said to be _functionally deterministic_ if it always computes the same answer when given the same input, and _structurally deterministic_ if it always computes the same computation graph, when given the same input. The presence of data races often leads to functional and/or structural nondeterminism because a parallel program with data races may exhibit different behaviors for the same input, depending on the relative scheduling and timing of memory accesses involved in a data race. In general, the absence of data races is not sufficient to guarantee determinism
 
 **Parallel Loops**
+- matrix multiplication :
+	- sequential code (n * n)
+		- for i, j -> \[0, n)
+			- for k -> \[0, n)
+				- R\[i]\[j] += A\[i]\[k] * B\[K]\[J]
+	- parallel
+		- you cant parallel the k loop because of the write to R\[i]\[j]
+		- so the parallel loop will be the external
+- forall : is a parallel loop in the course
 **Barriers in Parallel Loops**
+- without barriers, this is not deterministic so you cant write all the "Hello" part first before staring to write Bye
+	- forall i: \[0: N - 1]
+		- print "Hello" + i
+		- print "Bye" + i
+- with the barrier all thread stop at the barrier until all they finish the "Hello" part
+	- forall i: \[0: N - 1]
+			- print "Hello" + i
+			- BARRIER
+			- print "Bye" + i
+
