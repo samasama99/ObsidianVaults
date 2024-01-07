@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/maven/Maven Full Course.md",
+                "file": "DesignPatternsMasterClass/Proxy.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/maven/Maven Full Course.md",
+                "file": "DesignPatternsMasterClass/Proxy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/maven/Maven Full Course.md",
+                "file": "DesignPatternsMasterClass/Proxy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/maven/Maven Full Course.md"
+                "file": "DesignPatternsMasterClass/Proxy.md"
               }
             }
           },
@@ -263,36 +263,36 @@
   },
   "active": "0cd9fd304565d544",
   "lastOpenFiles": [
+    "oop course/week2/week2 notes.md",
+    "oop course/Week3/week3 notes.md",
     "DesignPatternsMasterClass/SOLID.md",
+    "DesignPatternsMasterClass/resource.md",
+    "DesignPatternsMasterClass/Proxy.md",
+    "DesignPatternsMasterClass/Prototype.md",
+    "parallel-programing-in-java/random notes.md",
+    "parallel-programing-in-java/course notes.md",
+    "DesignPatternsMasterClass/FlyWeight.md",
+    "DesignPatternsMasterClass/Factory.md",
+    "java/maven/Maven Full Course.md",
     "DesignPatternsMasterClass/Decorator.md",
     "DesignPatternsMasterClass/Singleton.md",
-    "parallel-programing-in-java/course notes.md",
     "DesignPatternsMasterClass/Adapter.md",
-    "DesignPatternsMasterClass/Prototype.md",
     "DesignPatternsMasterClass/Builder.md",
     "DesignPatternsMasterClass/Abstract Factory.md",
-    "DesignPatternsMasterClass/resource.md",
-    "DesignPatternsMasterClass/Factory.md",
     "DesignPatternsMasterClass",
-    "parallel-programing-in-java/random notes.md",
     "algorithm/Princeton University/week1/Excalidraw/Quick-find demo.md",
     "algorithm/Princeton University/week1/Quick-union <lazy approach>.md",
     "algorithm/Princeton University/week1/Quick-find.md",
     "algorithm/Princeton University/week1/Percolation.md",
     "java/spring/data/Hibernate.md",
     "java/spring/data/JPA.md",
-    "oop course/week2/week2 notes.md",
     "oop course/week1/week1 notes.md",
     "oop course/week1/software_requirements.png",
-    "java/maven/Maven Full Course.md",
     "google-cloud-spring/Notes.md",
     "java/oop/design pattern.md",
-    "oop course/Week3/week3 notes.md",
     "oop course/Week3",
     "oop course/Untitled.md",
     "java/oop",
-    "java/Untitled.md",
-    "java/core/JAR file.md",
     "google-cloud-spring",
     "Screen Shot 2023-11-18 at 12.33.16 PM.png",
     "java/maven",

@@ -1,0 +1,5 @@
+- huge number of object creation
+- object creation is heavy on the memory
+- the object has intrinsic properties and extrinsic properties
+- intrinsic : object is unique
+- extrinsic: will added by the client himself
